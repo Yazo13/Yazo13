@@ -1,33 +1,49 @@
-<h1 align="center">Hi, I'm Giorgi Kazishvili 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Back-end+Developer;C%23+%26+Angular+Enthusiast;Building+Digital+Solutions;Medwork+Developer" alt="Typing SVG" />
+<div align="center">
+
+# Giorgi Kazishvili
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Back-end+Developer;C%23+%26+.NET+Enthusiast;Angular+%26+TypeScript;Building+Digital+Solutions)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgi-kazishvili-083856273)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giorgi.kazishvili13@gmail.com)
+
+</div>
+
+---
+
+### About me
+
+- Working at **MedSoft.ge** on `Medwork` — Hospital Management System
+- Completing Bachelor's degree, focusing on **C# & Angular**
+- Building digital solutions, exploring modern web architectures
+
+---
+
+### Current focus
+
+| Project | Role | Stack | Status |
+|:--------|:-----|:------|:-------|
+| **Medwork** | Back-end Dev | `C#` `.NET` `MSSQL` | Active |
+| **TripPlanner** | Lead Dev | `Angular` `TypeScript` `.NET` | Building |
+| **Admin Panel** | Full-Stack | `Angular` `C#` | Testing |
+
+---
+
+### Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,tailwind,py,django,mysql,postgres,git,figma,postman" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Working at **MedSoft.ge** on the **Medwork** (Hospital Management System).
-- 🌱 Currently completing my Bachelor’s degree, focusing on **C# & Angular**.
-- 🛠️ Actively building digital solutions and exploring modern web architectures.
+### GitHub stats
 
-### 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/giorgi-kazishvili-083856273" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:giorgi.kazishvili13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
-
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,sass,tailwind,py,django,php,laravel,mysql,postgres,sqlite,nginx,figma,git,postman" />
-</p>
-
-### 📊 GitHub Activities
-<p align="center">
+<div align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yazo13&show_icons=true&theme=nord&count_private=true&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yazo13&theme=nord&hide_border=true" />
-</p>
+</div>
 
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yazo13&theme=github-compact&hide_border=true" width="98%" />
+</div>
