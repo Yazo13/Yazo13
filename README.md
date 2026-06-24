@@ -13,7 +13,6 @@
 
 ### About me
 
-- Working at **MedSoft.ge** on `Medwork` — Hospital Management System
 - Completing Bachelor's degree, focusing on **C# & Angular**
 - Building digital solutions, exploring modern web architectures
 
@@ -23,9 +22,9 @@
 
 | Project | Role | Stack | Status |
 |:--------|:-----|:------|:-------|
-| **Medwork** | Back-end Dev | `C#` `.NET` `MSSQL` | Active |
+| **Medwork** | Back-end Dev | `C#` `.NET` `MSSQL` | Done | 1Y Experience |
 | **TripPlanner** | Lead Dev | `Angular` `TypeScript` `.NET` | Building |
-| **Admin Panel** | Full-Stack | `Angular` `C#` | Testing |
+| **Full-Stack Project** | Front & Back | `Angular` `C#` | Testing |
 
 ---
 
