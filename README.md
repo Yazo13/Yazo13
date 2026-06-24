@@ -41,7 +41,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yazo13&show_icons=true&theme=nord&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yazo13&theme=nord&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yazo13&theme=nord&hide_border=true&cachebust=1" />
 </div>
 
 <div align="center">
