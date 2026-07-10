@@ -23,8 +23,8 @@
 | Project | Role | Stack | Status |
 |:--------|:-----|:------|:-------|
 | **Medwork** | Back-end Dev | `C#` `.NET` `MSSQL` | Done | 1Y Experience |
-| **TripPlanner** | Lead Dev | `Angular` `TypeScript` `.NET` | Building |
 | **Collaborative Trip Planner** | Front & Back | `Angular` `C#` | Done |
+| **Personal Project** | Buisness Idea | `Angular` `TypeScript` `.NET` | Building |
 
 ---
 
