@@ -39,8 +39,9 @@
 ### GitHub stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yazo13&show_icons=true&theme=nord&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yazo13&theme=nord&hide_border=true&cachebust=1" />
+  ![](https://github-readme-stats.shion.dev/api?username=Yazo13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Yazo13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yazo13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <div align="center">
